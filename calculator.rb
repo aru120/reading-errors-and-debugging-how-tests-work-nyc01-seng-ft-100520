@@ -1,2 +1,2 @@
 # Add your variables here
-f
+first_number = 7
